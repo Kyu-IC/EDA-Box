@@ -1,0 +1,6 @@
+ID,Age,Income,Gender
+1,25.0,50000.0,Male
+2,30.0,60000.0,Female
+3,22.0,55000.0,Female
+4,,58000.0,Male
+5,40.0,,Female
